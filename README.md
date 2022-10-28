@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @MohamedHamdy94
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently working with ME(A/R)N stack
-- 💞️ I’m looking to collaborate on any project
-- 📫 reach me at mohamedhamdyahmed94@gmail.com
-## hey there 
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>

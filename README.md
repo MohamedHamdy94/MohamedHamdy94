@@ -2,8 +2,7 @@
 
 <h3>Welcome to my github page</h3>
 
-I'm [Mohamed Hamdy](https://mohamedhamdy94.github.io/Mohamed-Hamdy/), a Full Stack Web Developer using MEARN . Graduated from Information Technology Institute (ITI). my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm [Mohamed Hamdy](https://mohamedhamdy94.github.io/Mohamed-Hamdy/), a Full Stack Web Developer using MEARN . Graduated from Information Technology Institute (ITI).  my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience and code quality of the things I build. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <h3>🔗 Connect with me</h3>
 <p align="left">

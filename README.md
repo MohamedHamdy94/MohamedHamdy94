@@ -17,6 +17,7 @@ my passion for software lies with dreaming up ideas and making them come true wi
    <a href="https://www.facebook.com/anakingmsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
    <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+ 
    <br />
     <h3>🛠️ Languages and Tools</h3>
 

@@ -1,5 +1,4 @@
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 <h3>Welcome to my github page</h3>
 I'm [Mohamed Hamdy](https://mohamedhamdy94.github.io/Mohamed-Hamdy/), a Full Stack Web Developer using MEARN . Graduated from Information Technology Institute (ITI).  
 I had many opportunities to work in a vast spectrum of web technologies what let me gather a significant amount of various experience.I have the knowledge and patience required to make just about anything.
